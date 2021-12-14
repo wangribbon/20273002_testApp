@@ -1,6 +1,6 @@
 package com.example.a11st_application;
 
-import android.graphics.Movie;
+//import android.graphics.Movie;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;

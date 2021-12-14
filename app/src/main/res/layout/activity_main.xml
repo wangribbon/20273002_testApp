@@ -11,8 +11,12 @@
         android:id="@+id/xeditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="https://www.kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.json?key=e630b16c9220bf797b5bf5af9ccad3b7&#38;targetDt=20211001"
         android:hint="사이트 주소 입력"/>
+    <Button
+        android:id="@+id/dateButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="박스오피스 조회 날짜 선택"/>
 
     <Button
         android:id="@+id/xbutton"
